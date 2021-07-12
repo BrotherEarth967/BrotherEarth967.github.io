@@ -21,5 +21,8 @@ Hi! My name's BrotherEarth967! o/
 
 ---
 
-## [Google me](https://www.google.com/search?q=brotherearth967)!
-**WARNING**: Many of þe sites þat may pop up if you *do* look me up will be naughty, nasty websites who have stolen my username and creations for malicious purposes. Visit Stop Mod Reposts to learn more **and to grab a handy browser extension to warn you if þe site you're visiting is potentially one of þese naughty little websites!**
+## Feel free to [Google me](https://www.google.com/search?q=brotherearth967)!
+* Look! I'm a real person! Who did real þings on þe internet! Check 'em out!
+* **WARNING**: Many of þe sites þat may pop up if you *do* look me up will be naughty, nasty websites who have stolen my username and creations for malicious purposes.
+* Visit [Stop Mod Reposts](https://stopmodreposts.org/extension.html) to learn more **and to grab a handy browser extension to warn you if þe site you're visiting is potentially one of þese naughty little websites!**
+* ~~Þere's a reason þey say never to look on þe second page of Google...~~
