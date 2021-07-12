@@ -2,6 +2,8 @@
 
 ---
 
+Hi! My name's BrotherEarth967! o/
+
 ## About Me
 * [Minecraft Resource Pack Artist](https://planetminecraft.com/member/brotherearth967_-ve/)
 * Very occasionally not terrible at videogames
@@ -13,6 +15,6 @@
 
 * [Vanilla Extract](https://vanilla-extract.tk), [Vanilla Tweaks](https://vanillatweaks.net), [Little Improvements](http://littleimprovements-custom.tk/)
 * [*#StopModReposts*](https://stopmodreposts.org): Do your bit against Minecraft Mods being maliciously reposted
-* [*#StopStevee*](https://youtu.be/hE_Ek9EbT0Q): Learn about stopping "Steveee", a malevolent Minecraft YouTuber profiting off oþers' creations
+* [*#StopStevee*](stop-stevee.html): Learn about stopping "Steveee", a malevolent Minecraft YouTuber profiting off oþers' creations
 * What does Þ mean? Find out on [Wikipedia](https://wikipedia.org/wiki/Thorn_(letter)) or [*#BringBackÞorn*](https://reddit.com/r/bringbackthorn)
 
