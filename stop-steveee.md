@@ -1,4 +1,5 @@
 # #StopStevee
+[HOME](index.html) · TH VERSION(WIP) · [GITHUB](https://github.com)
 ## Who is Steveee?
 "Stevee" is a YouTube *creator* [^1] who has recently appeared and started to rapidly create short 'Minecraft meme' videos that have raised þem into YouTube stardom because, well, people *like* þat kind of stuff...
 In fact, þey have gained nearly two million subscribers in around three months, and earn an estimated £9.9K–£158.9K [^2]
