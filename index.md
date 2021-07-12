@@ -15,6 +15,6 @@ Hi! My name's BrotherEarth967! o/
 
 * [Vanilla Extract](https://vanilla-extract.tk), [Vanilla Tweaks](https://vanillatweaks.net), [Little Improvements](http://littleimprovements-custom.tk/)
 * [*#StopModReposts*](https://stopmodreposts.org): Do your bit against Minecraft Mods being maliciously reposted
-* [*#StopStevee*](stop-stevee.html): Learn about stopping "Steveee", a malevolent Minecraft YouTuber profiting off oþers' creations
+* [*#StopStevee*](stop-steveee.html): Learn about stopping "Steveee", a malevolent Minecraft YouTuber profiting off oþers' creations
 * What does Þ mean? Find out on [Wikipedia](https://wikipedia.org/wiki/Thorn_(letter)) or [*#BringBackÞorn*](https://reddit.com/r/bringbackthorn)
 
