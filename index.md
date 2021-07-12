@@ -26,3 +26,11 @@ Hi! My name's BrotherEarth967! o/
 * **WARNING**: Many of þe sites þat may pop up if you *do* look me up will be naughty, nasty websites who have stolen my username and creations for malicious purposes.
 * Visit [Stop Mod Reposts](https://stopmodreposts.org/extension.html) to learn more **and to grab a handy browser extension to warn you if þe site you're visiting is potentially one of þese naughty little websites!**
 * ~~Þere's a reason þey say never to look on þe second page of Google...~~
+
+---
+
+## TODO
+- [x] Start
+- [ ] Add BTT banner
+- [ ] add more info
+- [ ] summat
