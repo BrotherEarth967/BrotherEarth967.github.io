@@ -15,3 +15,7 @@
 * [*#StopModReposts*](https://stopmodreposts.org): Do your bit against Minecraft Mods being maliciously reposted
 * [*#StopStevee*](https://youtu.be/hE_Ek9EbT0Q): Learn about stopping "Steveee", a malevolent Minecraft YouTuber profiting off oþers' creations
 * What does Þ mean? Find out on [Wikipedia](https://wikipedia.org/wiki/Thorn_(letter)) or [*#BringBackÞorn*](https://reddit.com/r/bringbackthorn)
+	
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
