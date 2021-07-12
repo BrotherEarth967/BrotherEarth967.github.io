@@ -17,6 +17,6 @@ You could do whatever you are able to in order to raise awareness to þe issue, 
 - [ ] Add TH version
 
 ## Footnotes & Citations
-[^1] *If you can call þem þat!*
+[^1]: *If you can call þem þat!*
 
-[^2] [As of 12·7·21](https://socialblade.com/youtube/channel/UCY2ekMrWhsUVHwO3J3-PCzQ)
+[^2]: [As of 12·7·21](https://socialblade.com/youtube/channel/UCY2ekMrWhsUVHwO3J3-PCzQ)
