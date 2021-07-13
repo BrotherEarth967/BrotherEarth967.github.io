@@ -1,5 +1,5 @@
 # #StopSteveee
-[HOME](index.html) · [Þ VERSION](https://brotherearth967.github.io/stop-steveee) · [VIEW ON GITHUB](https://github.com/BrotherEarth967/BrotherEarth967.github.io/blob/main/stop-steveee) · [VIEW ON WEB](https://BrotherEarth967.github.io/stop-steveee/th.html)
+[HOME](index.html) · [Þ VERSION](stop-steveee) · [VIEW ON GITHUB](https://github.com/BrotherEarth967/BrotherEarth967.github.io/blob/main/stop-steveee) · [VIEW ON WEB](https://BrotherEarth967.github.io/stop-steveee/th.html)
 ## Who is Steveee?
 "Steveee" is a YouTube *creator* [^1] who has recently appeared and started to rapidly create short 'Minecraft meme' videos that have raised them into YouTube stardom because, well, people *like* that kind of stuff...
 In fact, they have gained nearly two million subscribers in around three months, and earn an estimated £9.9K–£158.9K [^2]
