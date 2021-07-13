@@ -1,7 +1,7 @@
-# #StopStevee
-[HOME](https://brotherearth967.github.io/index.html) · [TH VERSION](https://brotherearth967.github.io/stop-steveee-th.html) · [VIEW ON GITHUB](https://github.com/BrotherEarth967/BrotherEarth967.github.io/blob/main/stop-steveee.md) · [VIEW ON WEB](https://BrotherEarth967.github.io/stop-steveee.html)
+# #StopSteveee
+[HOME](https://brotherearth967.github.io/index.html) · [TH VERSION](https://brotherearth967.github.io/stop-steveee/th.html) · [VIEW ON GITHUB](https://github.com/BrotherEarth967/BrotherEarth967.github.io/blob/main/stop-steveee.md) · [VIEW ON WEB](https://BrotherEarth967.github.io/stop-steveee.html)
 ## Who is Steveee?
-"Stevee" is a YouTube *creator* [^1] who has recently appeared and started to rapidly create short 'Minecraft meme' videos that have raised þem into YouTube stardom because, well, people *like* þat kind of stuff...
+"Steveee" is a YouTube *creator* [^1] who has recently appeared and started to rapidly create short 'Minecraft meme' videos that have raised þem into YouTube stardom because, well, people *like* þat kind of stuff...
 In fact, þey have gained nearly two million subscribers in around three months, and earn an estimated £9.9K–£158.9K [^2]
 ## Why do we need to stop þem?
 Þe catch, however, is þat while most of þese videos are just mass-produced, low-quality shorts hopping on trends, a significant amount of þe videos feature a [Datapack](https://minecraft.fandom.com/wiki/Data_Pack) or [Resource Pack](https://minecraft.fandom.com/wiki/Resource_Pack), usually silly or joke ones.
