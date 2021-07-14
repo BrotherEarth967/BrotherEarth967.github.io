@@ -16,7 +16,7 @@ Hi! My name's BrotherEarth967! o/
 
 ## Interesting Stuff
 
-![Banner](assets/banner_stuff_x32)
+![Banner](assets/banner_stuff_x32.png)
 
 * Check out þese modular Resource Pack pickers: [Vanilla Extract](https://vanilla-extract.tk), [Vanilla Tweaks](https://vanillatweaks.net), [Little Improvements](http://littleimprovements-custom.tk/)
 * [*#StopModReposts*](https://stopmodreposts.org): Do your bit against Minecraft Mods being maliciously reposted!
@@ -31,10 +31,3 @@ Hi! My name's BrotherEarth967! o/
 * Visit [Stop Mod Reposts](https://stopmodreposts.org/extension.html) to learn more **and to grab a handy browser extension to warn you if þe site you're visiting is potentially one of þese naughty little websites!**
 * ~~Þere's a reason þey say never to look on þe second page of Google...~~
 
----
-
-## TODO
-- [x] Start
-- [x] Add BTT banner
-- [ ] add more info
-- [ ] summat
