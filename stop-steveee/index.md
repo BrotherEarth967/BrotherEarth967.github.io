@@ -19,9 +19,6 @@ You could do whatever you are able to in order to raise awareness to þe issue, 
 * [Þis](https://youtu.be/hE_Ek9EbT0Q) video by YokaiS
 * [Þis](https://www.planetminecraft.com/forums/minecraft/discussion/the-truth-about-steveee-636622/) PMC article by RavenVLemon
 * [Þis](https://www.planetminecraft.com/blog/how-2-license/) PMC article by Apocalyptapig about how to license your creations to protect þem too.
-## TODO
-- [x] Make basis of article
-- [x] Add TH version
 
 ## Footnotes & Citations
 [^1]: *If you can call þem þat!*
