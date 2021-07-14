@@ -11,7 +11,7 @@ In fact, þey have gained nearly two million subscribers in around three months,
 To put it simply, Stevee does **not** make þese packs, þey take oþer people's creations and use þem in þeir own videos wiþout credit or appreciation for þe original auþors.
 Ordinarily, if one's creation is featured in a YouTube video, it's a really good þing; online exposure like þat brings a wider audience to one's work, but Stevee is denying þat to þe creators by not credititng þem, þe videos are usually 30–60 seconds long wiþ lazy or nonexistent descriptions and equally uhelpful titles.
 
-![Steveee's Youtube Page](assets/steveee_yt.png)
+![Steveee's Youtube Page](/assets/steveee_yt.png)
 
 ## What can I do to help?
 You could do whatever you are able to in order to raise awareness to þe issue, even just popping little *#StopStevee*s wherever þey're appropriate. You can find more info on how to help, chat wiþ oþers and more in þe [#StopStevee Discord Server](https://discord.gg/sKqYzD5RZW)
