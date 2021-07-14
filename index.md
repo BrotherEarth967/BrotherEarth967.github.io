@@ -1,10 +1,10 @@
+![Banner](assets/banner_main_x30.png)
+
 # BrotherEarth967
 
 HOME · [TH VERSION](https://brotherearth967.github.io/index-th.html) · [VIEW ON GITHUB](https://github.com/BrotherEarth967/BrotherEarth967.github.io/blob/main/index.md) · [VIEW ON WEB](https://BrotherEarth967.github.io)
 
 Hi! My name's BrotherEarth967! o/
-
-![Banner](assets/banner_main_x30.png)
 
 ## About Me
 * I am a [Minecraft Resource Pack Artist](https://planetminecraft.com/member/brotherearth967_-ve/)
