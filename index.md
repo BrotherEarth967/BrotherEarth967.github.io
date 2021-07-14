@@ -4,6 +4,8 @@ HOME · [TH VERSION](https://brotherearth967.github.io/index-th.html) · [VIEW O
 
 Hi! My name's BrotherEarth967! o/
 
+![Banner](assets/banner_main_x30.png)
+
 ## About Me
 * I am a [Minecraft Resource Pack Artist](https://planetminecraft.com/member/brotherearth967_-ve/)
 * I am very occasionally not completely terrible at videogames
@@ -13,6 +15,8 @@ Hi! My name's BrotherEarth967! o/
 ---
 
 ## Interesting Stuff
+
+![Banner](assets/banner_stuff_x32)
 
 * Check out þese modular Resource Pack pickers: [Vanilla Extract](https://vanilla-extract.tk), [Vanilla Tweaks](https://vanillatweaks.net), [Little Improvements](http://littleimprovements-custom.tk/)
 * [*#StopModReposts*](https://stopmodreposts.org): Do your bit against Minecraft Mods being maliciously reposted!
@@ -31,6 +35,6 @@ Hi! My name's BrotherEarth967! o/
 
 ## TODO
 - [x] Start
-- [ ] Add BTT banner
+- [x] Add BTT banner
 - [ ] add more info
 - [ ] summat
