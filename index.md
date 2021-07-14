@@ -2,7 +2,7 @@
 
 # BrotherEarth967
 
-HOME · [TH VERSION](https://brotherearth967.github.io/index-th.html) · [VIEW ON GITHUB](https://github.com/BrotherEarth967/BrotherEarth967.github.io/blob/main/index.md) · [VIEW ON WEB](https://BrotherEarth967.github.io)
+HOME · [TH VERSION](index-th.html) · [I WILL COME UP WIÞ SOMEÞING ELSE TO PUT HERE I PROMISE]()
 
 Hi! My name's BrotherEarth967! o/
 
