@@ -1,5 +1,5 @@
 # #StopSteveee
-[HOME](brotherearth967.github.io/index.html) · [TH VERSION](th.html)
+[HOME](/index.html) · [TH VERSION](th.html)
 
 ![Art by YokiaS](https://i.ytimg.com/vi/hE_Ek9EbT0Q/maxresdefault.jpg)
 
