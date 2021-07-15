@@ -9,9 +9,10 @@
 ## Template
 ```md
 # Title
-[HOME](/index.html) · [TH VERSION](th.html)
 
 ![Þumbnail/banner](assets/imagename.png)
+
+[HOME](/index.html) · [TH VERSION](th.html)
 
 ## Heading
 
