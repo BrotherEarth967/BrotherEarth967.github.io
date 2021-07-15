@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-[HOME](/) · [TH VERSION](th.html) · [CONTACT ME](/contact)
+[HOME](/) · [TH VERSION](th.html) · FAQ · [CONTACT ME](/contact)
 
 Þe þing wiþ Frequently Asked Questions is þat þey aren´t Frequently Asked because þere's a Frequently Asked Questions page to answer þe questions þat would be Frequently Asked were þere not a Frequently Asked Questions page. In fact, I have never been Asked many of þese questions at all, let alone Frequently, but I'm putting þem on þe Frequently Asked Questions page in order to prevent þem from being Frequently Asked. Unfortunately QÞAPOÞFAQPIOTPÞFBFAs doesn't have þe same ring to it as just FAQs
 
