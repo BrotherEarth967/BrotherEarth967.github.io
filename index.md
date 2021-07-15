@@ -2,7 +2,7 @@
 
 ![Banner](assets/banner_main_x30.png)
 
-HOME · [TH VERSION](index-th.html) · [I WILL COME UP WIÞ SOMEÞING ELSE TO PUT HERE I PROMISE]()
+HOME · [TH VERSION](index-th.html) · [FAQ](faq)
 
 Hi! My name's BrotherEarth967! o/
 
