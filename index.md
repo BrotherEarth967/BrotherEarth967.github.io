@@ -1,6 +1,6 @@
-![Banner](assets/banner_main_x30.png)
-
 # BrotherEarth967
+
+![Banner](assets/banner_main_x30.png)
 
 HOME · [TH VERSION](index-th.html) · [I WILL COME UP WIÞ SOMEÞING ELSE TO PUT HERE I PROMISE]()
 
