@@ -4,7 +4,8 @@
 
 ## To-do list:
 - [ ] Make Pixel 404 Banner
-- [ ] Make banner_stuff_x30.png be the same proportions as banner_main_x30.png
+- [x] Make banner_stuff_x30.png be the same proportions as banner_main_x30.png
+- [ ] Make Email, PMC and Discord pixel icons
 
 ## Template
 ```md
