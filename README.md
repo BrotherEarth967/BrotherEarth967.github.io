@@ -13,7 +13,7 @@
 
 ![Þumbnail/banner](assets/imagename.png)
 
-[HOME](/index.html) · [TH VERSION](th.html)
+[HOME](/) · [TH VERSION](th.html) · [FAQ](faq)
 
 ## Heading
 
