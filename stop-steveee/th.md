@@ -1,5 +1,5 @@
 # #StopSteveee
-[HOME](/index.html) · [Þ VERSION](index.html)
+[HOME](/) · [Þ VERSION](/stop-steveee) · [FAQ](/faq) · [CONTACT ME](/contact)
 
 ![Art by YokiaS](https://i.ytimg.com/vi/hE_Ek9EbT0Q/maxresdefault.jpg)
 
