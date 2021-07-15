@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-[HOME](/) · [Þ VERSION](/faq) · [CONTACT ME](/contact)
+[HOME](/) · [Þ VERSION](/faq) · FAQ · [CONTACT ME](/contact)
 
 The thing with Frequently Asked Questions is that they aren´t Frequently Asked because there's a Frequently Asked Questions page to answer the questions that would be Frequently Asked were there not a Frequently Asked Questions page. In fact, I have never been Asked many of these questions at all, let alone Frequently, but I'm putting them on the Frequently Asked Questions page in order to prevent them from being Frequently Asked. Unfortunately QTAPOTFAQPIOTPTFBFAs doesn't have the same ring to it as just FAQs
 
