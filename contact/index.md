@@ -1,6 +1,6 @@
 # Contact Me
 
-[HOME](/) · [TH VERSION](th.html) · [FAQ](/faq)
+[HOME](/) · [TH VERSION](th.html) · [FAQ](/faq) · CONTACT ME
 
 ## Planet Minecraft
 You can **private message me** or **comment on one of my posts** using [Planet Minecraft](https://www.planetminecraft.com/member/brotherearth967_-ve/)
