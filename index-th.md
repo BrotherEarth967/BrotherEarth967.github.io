@@ -2,6 +2,6 @@
 
 # BrotherEarth967
 
-[HOME](index.html) · [Þ VERSION](index.html)
+[HOME](/) · [Þ VERSION](/) · [FAQ](/faq) · [CONTACT ME](/contact)
 
 Nope
