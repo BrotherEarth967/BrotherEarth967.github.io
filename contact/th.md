@@ -1,5 +1,7 @@
 # Contact Me
 
+![Banner](/assets/banner_contact_x30.png)
+
 [HOME](/) · [Þ VERSION](/contact) · [FAQ](/faq) · CONTACT ME
 
 ## Planet Minecraft
