@@ -1,6 +1,6 @@
 # Contact Me
 
-![Banner](/assets/banner_contact_x30)
+![Banner](/assets/banner_contact_x30.png)
 
 [HOME](/) · [TH VERSION](th.html) · [FAQ](/faq) · CONTACT ME
 
