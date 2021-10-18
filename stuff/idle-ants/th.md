@@ -6,9 +6,11 @@
 
 ## What is Idle Ants?
 Idle Ants is an online incremental game. You can play it on the [creator's github site](https://scorzy.github.io/IdleAnt), or on [Kongregate](http://www.kongregate.com/games/scorzy88/idle-ants), or on [Google Play](https://play.google.com/store/apps/details?id=it.lorenzo.idleants). It also has a [sequel](https://scorzy.github.io/IdleAnt2/), with redesigned UI and some rebalancing. It's gameplay isn't visual, you can't see the ants in your colony scurrying around or interact visually, its just buttons, menus and numbers going up, but that doesn't make it less fun. the game is basically:
+
 * Ants produce food
 * The more food you have, the more ants you can buy
 * The more ants you have, the faster food gets produced.
+
 Except it's more complicated than that because you can then buy Queens, who produce ants passively, and later on, Nests, who produce Queens passively. And then there are different types of ants, who produce other materials like crystals and soil, some of whom will use up other materials in the process, so its a complex numbers game of making sure you have enough production of a material so support units producing another material from it so you don't go into a deficit.
 
 While there's no official documentation for the game, it's pretty easy to figure things out. And yes, that does say Octillion and Nonillion in the screenshot above. What can I say, it's fun‽
