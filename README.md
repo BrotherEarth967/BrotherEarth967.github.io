@@ -11,7 +11,7 @@
 ```md
 # Title
 
-![Þumbnail/banner](assets/imagename.png)
+![Þumbnail/banner](/assets/imagename.png)
 
 [HOME](/) · [TH VERSION](th.html) · [FAQ](/faq) · [CONTACT ME](/contact)
 [HOME](/) · [Þ VERSION](/page-name) · [FAQ](/faq) · [CONTACT ME](/contact)
