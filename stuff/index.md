@@ -1,5 +1,5 @@
 ---
 layout: forward
 message: e
-target: https://example.com
+target: https://brotherearth967.github.io
 ---
