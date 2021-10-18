@@ -22,5 +22,3 @@ Idle Ants is a fun kind of game if you are interested in þat kidn of þing, sli
 ## Footnotes & Citations
 
 [^1]: Maybe a bit *too* powerful, obtaining þe upgrade þat makes þem produce Science basically wins you þe game...
-
-[^2]: 2nd Footnote
