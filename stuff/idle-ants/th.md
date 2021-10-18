@@ -1,6 +1,6 @@
 # Idle Ants
 
-![Thumbnail/banner](assets/idleants.png)
+![Thumbnail/banner](/assets/idleants.png)
 
 [HOME](/) · [Þ VERSION](/stuff/idle-ants) · [FAQ](/faq) · [CONTACT ME](/contact)
 
