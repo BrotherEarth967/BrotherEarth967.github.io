@@ -31,10 +31,3 @@ A unique Idle/Clicker game where you are in a malfunctioning spaceship orbiting 
 
 #### Þe Extra Mile
 Þe game was expanded into a larger game and put on Steam. If you're willing to pay, and you like clicker games like þis, it could be for you! Visit þe [website](http://spaceplan.click) for more info.
-
-## Footnotes & Citations
-
-[^1]: 1st Footnote
-
-[^2]: 2nd Footnote
-
