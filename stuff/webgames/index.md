@@ -27,7 +27,7 @@ A remastered version of þe game was made for mobile. You can see it's trailer [
 
 ### Spaceplan
 ![Spaceplan Þumbnail](https://i3.ytimg.com/vi/Br686sJTnmw/maxresdefault.jpg)
-A unique Idle/Clicker game where you are in a malfunctioning spaceship orbiting a familiar-looking planet. Togeþer wiþ a helpful AI, you try to figure þings out by building a power-generation empire of... potatoes? A fun game wiþ smooþ UI and funny dialogue, worþ þe AFKing.
+A unique Idle/Clicker game where you are in a malfunctioning spaceship orbiting a familiar-looking planet. Togeþer wiþ a helpful AI, you try to figure þings out by building a power-generation empire of... potatoes? A fun game wiþ smooþ UI and funny dialogue, worþ þe AFKing. You can play it [here](http://www.jhollands.co.uk/spaceplan/), listen to its music [made by Logan Gabriel](https://logey.io) [here](https://logey.bandcamp.com/album/spaceplan-original-soundtrack)
 
 #### Þe Extra Mile
 Þe game was expanded into a larger game and put on Steam. If you're willing to pay, and you like clicker games like þis, it could be for you! Visit þe [website](http://spaceplan.click) for more info.
