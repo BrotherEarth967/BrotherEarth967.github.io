@@ -31,3 +31,26 @@ A unique Idle/Clicker game where you are in a malfunctioning spaceship orbiting 
 
 #### The Extra Mile
 The game was expanded into a larger game and put on Steam. If you're willing to pay, and you like clicker games like this, it could be for you! Visit the [website](http://spaceplan.click) for more info.
+
+### Material Warrior
+
+![Material Warrior Thumbnail](/assets/material_warrior.png)
+
+A fun emoji-based game with elements of idle and incremental games that sees you go from punching rats to slaughtering transdimensional bosses with infinity weapons. It was designed by [gamehelp16](https://gamehelp16.github.io), a fan of A Dark Room and someone who has also made [several other games](https://gamehelp16.github.io/post/welcome/). You start off as a smiley face in an unexplored forest with a friendly penguin who introduces you. You fight various animals and gain gold to purchase upgrades that allow you to fight stronger animals, and there are many different upgrades and things you need to do to be strong enought to fight the even more powerful creatures.
+
+The game has a unique charm to it, and is well worth a playthrough. It has a largely inactive subreddit [here](https://www.reddit.com/r/materialwarrior), and the code is all available [here](https://github.com/gamehelp16/material-warrior). There isn't really much of an extra mile for this game, but I recommend checking out gamehelp16's other creations, several of which are also inspired by A Dark Room and similar games like Candy Box.
+
+### Shark Game
+
+![Shark Game Logo](http://cirri.al/sharks/img/sharklogo.png)
+
+This variably-named game about sharks is another charming idle game with cute graphics and a pseudo-story somewhere in there. You are a shark in a strange blue sea, and after hunting some fish and gathering some friends, you can contstruct a great empire of workers, machines and scientists. However, you can cross through the mysterious gateway you discover to find a different world, not quite home, and start once more with the ethereal essence you gained to help you.
+
+It was originally designed by [Cirrial](https://cirri.al) in 3 days for [Seamergency 2014](https://twitter.com/seamergency), the charity even to raise money for efforts to save sharks and manta rays in the wild. Cirrial dropped development of the game in 2015, and as of 2020, it was picked up by [spencers145](https://github.com/spencers145). While it can get a bit complicated, you can find all the versions of the game [here](https://shark.tobot.dev), which consist of:
+
+* the original game by Cirrial v0.71 - [Game](http://cirri.al/sharks/), [Code](https://github.com/Cirrial/SharkGame)
+* Spencers145's remaster of the game with a few minor improvements v0.11 - [Game](https://spencers145.github.io/SharkGame/), [Code](https://github.com/spencers145/SharkGame)
+* Spencers145 and Toby222's unfinished remake of the game called New Frontiers v0.2- [Game](https://alpha.shark.tobot.dev), [Code](https://github.com/Toby222/SharkGame)
+* A WIP Svelte rewrite - [Game](https://rewrite.shark.tobot.dev)
+
+There is a [discord server](https://discord.gg/eYqApFkFPY) and a [subreddit](https://reddit.com/r/sharkgame) if you're interested.
