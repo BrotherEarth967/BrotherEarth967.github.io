@@ -1,9 +1,10 @@
-theme: jekyll-theme-tactile
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - CONTRIBUTING.md
   - README.md
@@ -13,5 +14,15 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
 title: "BrotherEarth967"
 description: "@ brotherearth967.github.com"
+
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
