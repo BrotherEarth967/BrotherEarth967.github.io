@@ -1,4 +1,6 @@
-# Contact Me
+---
+title: Contact Me
+---
 
 ![Banner](/assets/banner_contact_x30.png)
 

@@ -1,5 +1,6 @@
-# BroþerEarþ's Texture Tavern
-[HOME](/) · [TH VERSION](th.html) · [FAQ](/faq) · [CONTACT ME](/contact)
+---
+title: BroþerEarþ's Texture Tavern
+---
 
 ![Banner](/assets/banner_tavern_x30.png)
 ## Hi! My name's BroþerEarþ967! o/
