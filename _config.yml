@@ -1,9 +1,12 @@
-theme: jekyll-theme-tactile
+# Declare and configure plugins
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
+# https://nicolas-van.github.io/easy-markdown-to-github-pages/
 include:
   - CONTRIBUTING.md
   - README.md
@@ -13,5 +16,19 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+# Site metadata
 title: "BrotherEarth967"
 description: "@ brotherearth967.github.com"
+
+# Syntax configuration
+markdown: kramdown
+
+# Default YAML frontmatter values
+defaults:
+  -
+    # set default layout to "default"
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
