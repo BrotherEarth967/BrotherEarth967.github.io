@@ -133,14 +133,14 @@ time, mark, audio, video {
   border: 0;
 }
 
+/* MAIN STYLES */
 body main, body header, nav div {
   width: 620px;
   margin: 0 auto;
 }
 
-/* BODY STYLES */
 body {
-  font-family: "Noto Sans", Helvetica, Arial, serif;
+  font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, arial, sans-serif;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.5;
@@ -163,7 +163,7 @@ nav a {
   text-decoration: none;
 }
 
-/* GENERAL STYLES */
+/* HEADING STYLES */
 h1 {
   font-size: 32px;
   font-weight: bold;
@@ -214,7 +214,7 @@ aside {
   margin-right: -33%;
 }
 
-/* HEADER */
+/* HEADER SECTION */
 header {
   padding-top: 10px;
   padding-bottom: 25px;
@@ -283,6 +283,7 @@ footer div {
   margin: 0 auto;
 }
 
+/* RESPONSIVE NONSENSE */
 /* Smaller than standard 960 (devices and browsers) */
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 /* All Mobile Sizes (devices and browser) */
