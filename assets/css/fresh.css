@@ -248,7 +248,6 @@ blockquote cite {
 /* LISTS */
 ul li {
   list-style-position: inside;
-  list-style: disc;
   padding-left: 20px;
 }
 
@@ -273,6 +272,7 @@ nav div {
 
 footer {
   background-color: #222;
+  margin-top: 50px;
 }
 footer div {
   padding-top: 10px;
