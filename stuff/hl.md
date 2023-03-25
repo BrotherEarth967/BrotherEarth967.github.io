@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Half-Life Mod Megalist ☣️
 ---
-# Half-Life Mod Megalist ☣️
 (Mods I've played are marked with a rating out of 10 in brackets, _unplayed mods that are high priority have an empty () awaiting a rating_)
 - Note to self: for reference, 6 is alright, 7 is decent, 8 is great/must-play, 9 is (nominally) brilliant (though seldom used for wiggle-room's sake) but 10 is a masterpiece!
 - Additional information regarding availablitity e.g. release date, price, is in square brackets.
