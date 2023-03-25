@@ -2,9 +2,9 @@
 layout: default
 ---
 # Half-Life Mod Megalist ☣️
-Played mods are marked with a rating /10 in brackets, _unplayed mods that are high priority have an empty () awaiting a rating_.
-- For reference, 6 is alright, 7 is decent, 8 is great/must-play, 9 is (nominally) brilliant (though seldom used for wiggle-room's sake) but 10 is a masterpiece!
-Additional information regarding availablitity e.g. release date, price, is in square brackets.
+(Mods I've played are marked with a rating out of 10 in brackets, _unplayed mods that are high priority have an empty () awaiting a rating_)
+- Note to self: for reference, 6 is alright, 7 is decent, 8 is great/must-play, 9 is (nominally) brilliant (though seldom used for wiggle-room's sake) but 10 is a masterpiece!
+- Additional information regarding availablitity e.g. release date, price, is in square brackets.
 ## Half-Life (1997) (+ Expansions) ⚗️
 ### Content Mods
 - [ ] [Half-Life: Induction](https://www.moddb.com/mods/half-life-induction)
@@ -57,7 +57,7 @@ Additional information regarding availablitity e.g. release date, price, is in s
 - [ ] [Half-Life Alpha](https://www.moddb.com/mods/half-life-alpha)
 - [x] [The Whole Half Life Tower](https://www.moddb.com/mods/twhl-tower) (8/10)
 - [x] [The Whole Half Life Tower II](https://www.moddb.com/mods/twhl-tower-2) (8/10)
-- [x] [USS Darkstar](https://www.moddb.com/mods/uss-darkstar) (6/10)
+- [x] [USS Darkstar](https://www.moddb.com/mods/uss-darkstar) (7/10)
 ### Remakes/Remasters
 - [ ] [Half-Life: Restored](https://store.steampowered.com/app/1283930/HalfLife_Restored)
 - [ ] [Half-Life: Enriched](https://www.moddb.com/mods/half-life-enriched) [TBD]
