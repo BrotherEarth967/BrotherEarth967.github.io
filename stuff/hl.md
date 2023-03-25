@@ -33,6 +33,7 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [DAV Train](https://www.runthinkshootlive.com/posts/dav-train/)
     - [ ] [DAV Sub](https://www.runthinkshootlive.com/posts/dav-sub/)
 - [ ] [Clean Half-Life](https://www.moddb.com/mods/cremation)
+- [ ] [Peaces Like Us](https://www.moddb.com/mods/half-life-peaces-like-us)
 - [ ] [Half Life Decay: Solo Mission](https://store.steampowered.com/app/1874090/HalfLife_Decay_Solo_Mission) [DEMO ONLY]
 - [ ] [Half-Life: Crossfire](https://www.moddb.com/mods/half-life-crossfire) [TBD]
 - [ ] [Half Life: Emission](https://www.moddb.com/mods/half-life-emission) [TBD]
@@ -97,6 +98,7 @@ title: Half-Life Mod Megalist ☣️
     - [ ] [The Citizen Returns](https://www.moddb.com/mods/the-citizen-returns)
 - [ ] [Amalgam](https://www.moddb.com/mods/amalgam)
 - [ ] [Cosmonaut](https://www.moddb.com/mods/cosmonaut)
+- [ ] [Mistake of Pythagoras](https://www.moddb.com/mods/mistake-of-pythagoras)
 - [ ] [Alyx](https://www.moddb.com/mods/alyx) [TBD]
 - [ ] [Comet Cage](https://www.moddb.com/mods/other-project) [TBD]
 - [ ] [Half-Life 2: Overwatch Force](https://www.moddb.com/mods/half-life-2-overwatch-force) [2023]
@@ -107,6 +109,7 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [The Burton Equation](https://www.moddb.com/mods/the-burton-equation) [TBD]
 - [ ] [Arrowhead](https://arrowheadgame.com) [TBD]
 - [ ] [Swelter](https://www.moddb.com/mods/swelter) [2023]
+- [ ] [Inhuman](https://www.moddb.com/mods/inhuman) [2023]
 - [x] [Entropy: Zero](https://store.steampowered.com/app/714070/Entropy___Zero) (8/10)
 - [x] [Entropy: Zero 2](https://store.steampowered.com/app/1583720/Entropy___Zero_2) (10/10)
 - [x] [MINERVA](https://store.steampowered.com/app/235780/MINERVA/) (8/10)
