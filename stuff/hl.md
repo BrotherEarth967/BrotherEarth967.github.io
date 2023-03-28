@@ -99,6 +99,23 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Amalgam](https://www.moddb.com/mods/amalgam)
 - [ ] [Cosmonaut](https://www.moddb.com/mods/cosmonaut)
 - [ ] [Mistake of Pythagoras](https://www.moddb.com/mods/mistake-of-pythagoras)
+- [ ] [Silent Escape](https://www.runthinkshootlive.com/posts/silent-escape/)
+- [ ] [Sebastian](https://www.runthinkshootlive.com/posts/sebastian/)
+- [ ] [Precursor](https://www.moddb.com/mods/precursor)
+- [ ] [Transmissions: Element 120](https://store.steampowered.com/app/365300/Transmissions_Element_120/)
+- [ ] [Local Motive](https://www.moddb.com/mods/local-motive-definitive-edition)
+- [ ] [Half life 2: Year-long Alarm](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
+- [ ] [Forest Train](https://www.runthinkshootlive.com/posts/forest-train/)
+- [ ] [Mission Improbable](https://www.moddb.com/mods/mission-improbable)
+- [ ] [Rebel Surge](https://www.runthinkshootlive.com/posts/rebel-surge/)
+- [ ] [Lost Industry 2](https://www.moddb.com/mods/lostindustry2-mod)
+- [ ] [Southernmost Combine](https://www.moddb.com/mods/southernmost-combine)
+- [ ] [New Times](https://www.moddb.com/mods/new-times) [2023]
+- [ ] [Half Life: Reamped](https://www.moddb.com/mods/half-life-reamped) [TBD]
+- [ ] [Radiated](https://www.moddb.com/mods/radiated) [TBD]
+- [ ] [Vitriol](https://www.moddb.com/mods/vitriol) [TBD]
+- [ ] [Lost Rebel](https://www.moddb.com/mods/lost-rebel) [TBD]
+- [ ] [Stroll](https://www.moddb.com/mods/stroll) [TBD]
 - [ ] [Alyx](https://www.moddb.com/mods/alyx) [TBD]
 - [ ] [Comet Cage](https://www.moddb.com/mods/other-project) [TBD]
 - [ ] [Half-Life 2: Overwatch Force](https://www.moddb.com/mods/half-life-2-overwatch-force) [2023]
@@ -127,6 +144,7 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Raising the Bar: Redux](https://www.moddb.com/mods/half-life-2-raising-the-bar-redux) [EPISODIC RELEASE]
 - [ ] [Dark Interval](https://www.moddb.com/mods/dark-interval) [EPISODIC RELEASE]
 - [ ] [Coterminus](https://www.moddb.com/mods/coterminus)
+- [ ] [Dark Concept](https://www.moddb.com/mods/dark-concept)
 - [ ] [Half-Life: Remnants](https://www.moddb.com/mods/half-life-remnants) [TBD]
 - [ ] [Missing Informaton](https://www.moddb.com/mods/missing-information) [SOON?]
 - [ ] [Cremation](https://www.moddb.com/mods/cremation) [TBD]
@@ -134,6 +152,7 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [LambdaBuilds](https://www.moddb.com/mods/lambdabuilds)
 - [ ] [Map Labs](https://www.moddb.com/mods/map-labs)
 ### Remakes/Remasters
+- [ ] [Half-life 2: Amalgam Zenith](https://www.moddb.com/mods/hl2-amalgam-zenith) [TBD]
 - [ ] [Half-Life 2: Overcharged](https://www.moddb.com/mods/hl2-overcharged)
 - [ ] [Fakefactory's Cinematic Mod](https://www.moddb.com/mods/fakefactory-cinematic-mod)
 - [ ] [Half-Life 2: SMod](https://www.moddb.com/mods/smod)
