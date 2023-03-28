@@ -12,7 +12,7 @@ I have been proud to call City 17 my home. And so, whether you are here to stay,
 
 It's safer here.
 
-# City 17 Propaganda Broadcast - "Instinct""
+# City 17 Propaganda Broadcast - "Instinct"
 Let me read a letter I recently received. "Dear Dr. Breen. Why has the Combine seen fit to suppress our reproductive cycle? Sincerely, A Concerned Citizen."
 
 Thank you for writing, Concerned. Of course your question touches on one of the basic biological impulses, with all its associated hopes and fears for the future of the species. I also detect some unspoken questions. Do Our Benefactors really know what's best for us? What gives them the right to make this kind of decision for mankind? Will they ever deactivate the suppression field and let us breed again? Allow me to address the anxieties underlying your concerns, rather than try to answer every possible question you might have left unvoiced.
@@ -78,13 +78,21 @@ Do what is right, Dr. Freeman. Serve mankind.
 
 # Citadel Conversations - "Freeman At Last"
 So, this is Dr. Freeman, at last. I wish I could say this was a pleasant surprise, but it's neither a surprise nor, as you would surely agree, very pleasant. Well, I am nothing if not pragmatic.
+
 ---
+
 Well, Dr. Freeman, under other circumstances I like to think we might have been able to work together in an atmosphere of mutual trust and respect. Certainly, judging from your brief tenure at Black Mesa while I was its Administrator, you showed every promise of becoming a valuable and productive contributor to the scientific process. And yet... I'm not sure what spurred you to it... but there is really no place in this enterprise for a rogue physicist.
+
 ---
+
 Your mentors are partly to blame, of course. My disappointment in Eli Vance and Isaac Kleiner is far greater than my sorrow over your unfortunate choice of career path. In a way, I suppose you could not have done otherwise. Who knows what seeds of iconoclasm they planted when you were young and gullible. But while they certainly share a great part of the responsibility for the recent troubles, it is you alone who have chosen to act with such willful disregard for humanity's future.
+
 ---
+
 Tell me, Dr. Freeman, if you can: you have destroyed so much. What is it, exactly, that you have created? Can you name even one thing? I thought not.
+
 ---
+
 I have laid the foundation for humanity's survival, and not as we have narrowly defined ourselves, but as something greater than we could ever imagine. Something we can only now begin to glimpse.
 
 Look, Gordon. Look at what you are throwing away. Is it worth it?

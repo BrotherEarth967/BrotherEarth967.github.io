@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "[Breen-Grub](https://twitter.com/breengrub)" Transmissions
+title: "Breen-Grub" Transmissions
 ---
 
 sss thss n?
