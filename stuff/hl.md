@@ -2,11 +2,17 @@
 layout: default
 title: Half-Life Mod Megalist ☣️
 ---
-(Mods I've played are marked with a rating out of 10 in brackets, _unplayed mods that are high priority have an empty () awaiting a rating_)
+- This is mostly a personal checklist for mods I've played. Ones I have played are marked with a rating out of 10 in brackets -- unplayed mods that are high-priority for me have an empty () awaiting a rating soon™. Ratings are subjective and yadda yadda personal opinion disclaimer etc. etc., but to be honest none of them are downright bad (notice HDTF isn't here :troll:).
+
 - Note to self: for reference, 6 is alright, 7 is decent, 8 is great/must-play, 9 is (nominally) brilliant (though seldom used for wiggle-room's sake) but 10 is a masterpiece!
+
+- Note to self #2: The above rating criteria is a mess and probably not followed most of the time, just rate it like you feel and move on.
+
 - Additional information regarding availablitity e.g. release date, price, is in square brackets.
-## Half-Life (1997) (+ Expansions) ⚗️
-### Content Mods
+
+# Half-Life (1997) (+ Expansions) ⚗️
+## Content Mods
+
 - [ ] [Half-Life: Induction](https://www.moddb.com/mods/half-life-induction)
 - [ ] [Half-Life: Anti-Climax](https://www.moddb.com/mods/half-life-anti-climax)
 - [ ] [Natural Selection](https://www.moddb.com/mods/natural-selection)
@@ -59,7 +65,9 @@ title: Half-Life Mod Megalist ☣️
 - [x] [The Whole Half Life Tower](https://www.moddb.com/mods/twhl-tower) (8/10)
 - [x] [The Whole Half Life Tower II](https://www.moddb.com/mods/twhl-tower-2) (8/10)
 - [x] [USS Darkstar](https://www.moddb.com/mods/uss-darkstar) (7/10)
-### Remakes/Remasters
+
+## Remakes/Remasters
+
 - [ ] [Half-Life: Restored](https://store.steampowered.com/app/1283930/HalfLife_Restored)
 - [ ] [Half-Life: Enriched](https://www.moddb.com/mods/half-life-enriched) [TBD]
 - [ ] [Half-Life: MMod](https://www.moddb.com/mods/half-life-mmod) [TBD]
@@ -71,8 +79,10 @@ title: Half-Life Mod Megalist ☣️
     - [ ] [Black Mesa: Azure Sheep](https://www.moddb.com/mods/black-mesa-azure-sheep)
     - [ ] [Black Mesa: Black Ops](https://steamcommunity.com/sharedfiles/filedetails/?id=1168537819)
 - [ ] [Operation Black Mesa](https://store.steampowered.com/app/311810/Operation_Black_Mesa/) [TBD]
-## Half-Life 2 (2004) (+ Episodes) 🏙️
-### Content Mods
+
+# Half-Life 2 (2004) (+ Episodes) 🏙️
+## Content Mods
+
 - [ ] [Half-Life 2: Downfall](https://store.steampowered.com/app/587650/HalfLife_2_DownFall)
 - [ ] [Estranged: Act I](https://store.steampowered.com/app/261820/Estranged_Act_I)
     - [ ] [Estranged_The_Departure](https://store.steampowered.com/app/582890/Estranged_The_Departure) [£4.79]
@@ -132,7 +142,9 @@ title: Half-Life Mod Megalist ☣️
 - [x] [MINERVA](https://store.steampowered.com/app/235780/MINERVA/) (8/10)
 - [x] [Research & Development](https://www.moddb.com/mods/research-and-development) (8/10)
 - [x] [Thunder's Leaves](https://www.moddb.com/mods/thunders-leaves) (7/10)
-#### Episode 3 Recreations
+
+### Episode 3 Recreations
+
 - [ ] [Lost Vessel](https://www.moddb.com/mods/lost-vessel)
 - [ ] [Half-Life 2: Aftermath](https://www.moddb.com/mods/hl2aftermath) [EPISODIC RELEASE]
 - [ ] [Half-Life 2: Interlude](https://www.moddb.com/mods/half-life-interlude) [TBD]
@@ -140,7 +152,9 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Boreal Alyph](https://www.moddb.com/mods/boreal-alyph) [TBD]
 - [ ] [Project Borealis](https://projectborealis.com) [TBD]
 - [ ] [The Closure](https://www.moddb.com/mods/the-closure) ()
-#### Beta Recreations
+
+### Beta Recreations
+
 - [ ] [Raising the Bar: Redux](https://www.moddb.com/mods/half-life-2-raising-the-bar-redux) [EPISODIC RELEASE]
 - [ ] [Dark Interval](https://www.moddb.com/mods/dark-interval) [EPISODIC RELEASE]
 - [ ] [Coterminus](https://www.moddb.com/mods/coterminus)
@@ -148,10 +162,14 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Half-Life: Remnants](https://www.moddb.com/mods/half-life-remnants) [TBD]
 - [ ] [Missing Informaton](https://www.moddb.com/mods/missing-information) [SOON?]
 - [ ] [Cremation](https://www.moddb.com/mods/cremation) [TBD]
-### Map Packs
+
+## Map Packs
+
 - [ ] [LambdaBuilds](https://www.moddb.com/mods/lambdabuilds)
 - [ ] [Map Labs](https://www.moddb.com/mods/map-labs)
-### Remakes/Remasters
+
+## Remakes/Remasters
+
 - [ ] [Half-life 2: Amalgam Zenith](https://www.moddb.com/mods/hl2-amalgam-zenith) [TBD]
 - [ ] [Half-Life 2: Overcharged](https://www.moddb.com/mods/hl2-overcharged)
 - [ ] [Fakefactory's Cinematic Mod](https://www.moddb.com/mods/fakefactory-cinematic-mod)
