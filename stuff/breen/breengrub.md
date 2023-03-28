@@ -1,3 +1,8 @@
+---
+layout: default
+title: "[Breen-Grub](https://twitter.com/breengrub)" Transmissions
+---
+
 sss thss n?
 
 fnx u shd knnw
