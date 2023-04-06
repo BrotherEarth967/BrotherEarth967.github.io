@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "<img src='/assets/banner_main_x30.png' alt='Banner' />"
+title: "<img src='/assets/banner_main_x30.png' style="max-width: calc(100% - 20px);" alt='Banner' />"
 ---
 
 ## About Me
@@ -10,7 +10,7 @@ title: "<img src='/assets/banner_main_x30.png' alt='Banner' />"
 * I'm interested in far too many things for my own good. Check out some of it in the **Stuff** area below...
 * Minecraft is cool, Modded Minecraft is cooler
 
-## ![Interesting Stuff](/assets/banner_stuff_center_x30.png)
+## <img src='/assets/banner_stuff_center_x30.png' style="max-width: calc(100% - 20px);" alt='Banner' />
 
 * Find out about cool free-to-play web games in [*The Webgame Cave*](/stuff/webgames)
 * Check out these modular Resource Pack pickers:
