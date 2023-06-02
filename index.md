@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "<img src='/assets/banner_main_x30.png' style="max-width: calc(100% - 20px);" alt='Banner' />"
+title: "<img src='/assets/banner_main_x30.png' style='max-width: calc(100% - 20px);' alt='Banner' />"
 ---
 
 ## About Me
