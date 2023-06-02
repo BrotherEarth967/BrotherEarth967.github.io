@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Breen-Grub" Transmissions
+title: '"Breen-Grub" Transmissions'
 ---
 
 sss thss n?
