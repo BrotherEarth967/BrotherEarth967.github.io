@@ -145,8 +145,8 @@ blockquote {
 /* LISTS */
 
 ul li {
-  list-style-position: inside;
-  padding-left: 20px;
+  list-style-position: inherit;
+  margin-left: 20px;
 }
 
 ol li {
