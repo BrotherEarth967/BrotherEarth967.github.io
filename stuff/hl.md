@@ -27,7 +27,7 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Point of View](https://www.moddb.com/mods/point-of-view)
 - [ ] [Half-Life: Zombie Edition](https://www.moddb.com/mods/half-life-zombie-edition)
 - [ ] [Afraid of Monsters](https://www.moddb.com/mods/afraid-of-monsters-dc) ()
-- [ ] [Half-Life: C.A.G.E.D.](https://store.steampowered.com/app/679990/HalfLife_Caged) ()
+- [x] [Half-Life: C.A.G.E.D.](https://store.steampowered.com/app/679990/HalfLife_Caged) (8/10)
 - [ ] [Half-Life: Uplink Extended](https://www.moddb.com/mods/half-life-uplink-extended-source-remod)
 - [ ] [Half-Life: Residual Point](https://www.moddb.com/mods/hl-residual-point)
     - [ ] [Zombie Edition: Residual Agent](https://www.moddb.com/mods/zombie-edition-residual-agent) [UNAVAILABLE]
@@ -70,7 +70,7 @@ title: Half-Life Mod Megalist ☣️
 
 - [ ] [Half-Life: Restored](https://store.steampowered.com/app/1283930/HalfLife_Restored)
 - [ ] [Half-Life: Enriched](https://www.moddb.com/mods/half-life-enriched) [TBD]
-- [ ] [Half-Life: MMod](https://www.moddb.com/mods/half-life-mmod) [TBD]
+- [x] [Half-Life: MMod](https://www.moddb.com/mods/half-life-mmod) [9/10]
 - [ ] [Half-Life: Extended](https://www.moddb.com/mods/half-life-extended) [TBD]
 - [ ] [Peer Review](https://www.moddb.com/mods/peer-review) [TBD]
 - [x] Black Mesa (2012)
@@ -102,7 +102,7 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Local Motive](https://www.moddb.com/mods/local-motive-definitive-edition)
 - [ ] [PseudoMod](https://www.moddb.com/mods/pseudomod)
 - [ ] [Outcast](https://www.moddb.com/mods/half-life-2-outcast)
-- [x] [Evacuation](https://store.steampowered.com/app/2224920/Evacuation) (9/10)
+- [x] [Evacuation](https://store.steampowered.com/app/2224920/Evacuation) (8/10)
 - [ ] [The Northern Resistance](https://www.moddb.com/mods/the-northern-resistance)
  - [ ] [The Citizen](https://www.moddb.com/mods/the-citizen)
     - [ ] [The Citizen Returns](https://www.moddb.com/mods/the-citizen-returns)
@@ -120,6 +120,7 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Rebel Surge](https://www.runthinkshootlive.com/posts/rebel-surge/)
 - [ ] [Lost Industry 2](https://www.moddb.com/mods/lostindustry2-mod)
 - [ ] [Southernmost Combine](https://www.moddb.com/mods/southernmost-combine)
+- [ ] [DISREPAIR](https://www.moddb.com/mods/disrepair/downloads/disrepair)
 - [ ] [New Times](https://www.moddb.com/mods/new-times) [2023]
 - [ ] [Half Life: Reamped](https://www.moddb.com/mods/half-life-reamped) [TBD]
 - [ ] [Radiated](https://www.moddb.com/mods/radiated) [TBD]
@@ -135,10 +136,11 @@ title: Half-Life Mod Megalist ☣️
 - [ ] [Riptide](https://www.moddb.com/mods/riptide) [TBD]
 - [ ] [The Burton Equation](https://www.moddb.com/mods/the-burton-equation) [TBD]
 - [ ] [Arrowhead](https://arrowheadgame.com) [TBD]
-- [ ] [Swelter](https://www.moddb.com/mods/swelter) [2023]
+- [x] [Swelter](https://www.moddb.com/mods/swelter) (8/10)
 - [ ] [Inhuman](https://www.moddb.com/mods/inhuman) [2023]
 - [x] [Entropy: Zero](https://store.steampowered.com/app/714070/Entropy___Zero) (8/10)
-- [x] [Entropy: Zero 2](https://store.steampowered.com/app/1583720/Entropy___Zero_2) (10/10)
+    - [x] [Entropy: Zero 2](https://store.steampowered.com/app/1583720/Entropy___Zero_2) (10/10)
+    - [x] [Entropy: Zero Uprising](https://www.moddb.com/mods/entropy-zero-uprising) (9/10)
 - [x] [MINERVA](https://store.steampowered.com/app/235780/MINERVA/) (8/10)
 - [x] [Research & Development](https://www.moddb.com/mods/research-and-development) (8/10)
 - [x] [Thunder's Leaves](https://www.moddb.com/mods/thunders-leaves) (7/10)
